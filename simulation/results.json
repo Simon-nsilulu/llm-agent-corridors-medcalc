@@ -1,0 +1,98 @@
+{
+ "seed": 2026,
+ "graphs_per_scenario": 5000,
+ "checks": {
+  "fixed": {
+   "nodes": 110020,
+   "viol_a": 0,
+   "viol_b": 0,
+   "viol_min": 0,
+   "viol_B": 0,
+   "attr": 218520,
+   "viol_attr": 0,
+   "mono": 2758600,
+   "viol_mono": 0
+  },
+  "input": {
+   "nodes": 110020,
+   "viol_a": 0,
+   "viol_b": 0,
+   "viol_min": 0,
+   "viol_B": 0,
+   "attr": 218520,
+   "viol_attr": 0,
+   "mono": 2758600,
+   "viol_mono": 0
+  }
+ },
+ "sinks": {
+  "S1": {
+   "n_sinks": 10510,
+   "no_corridor": {
+    "mean_delta": 1.3344552403570686,
+    "mean_B": 5.135222136139232
+   },
+   "fixed": {
+    "mean_delta": 0.1578229223262431,
+    "mean_B": 1.4024471753002183,
+    "share_tighter_than_no_corridor": 0.48867745004757374
+   },
+   "input": {
+    "mean_delta": 0.2529166710538978,
+    "mean_B": 10.408757741868083,
+    "share_tighter_than_no_corridor": 0.40751665080875354
+   }
+  },
+  "S2": {
+   "n_sinks": 10475,
+   "no_corridor": {
+    "mean_delta": 0.14738317837813916,
+    "mean_B": 0.8079739818816896
+   },
+   "fixed": {
+    "mean_delta": 0.0824902984469784,
+    "mean_B": 0.7719998046164328,
+    "share_tighter_than_no_corridor": 0.21460620525059665
+   },
+   "input": {
+    "mean_delta": 0.10727094188695548,
+    "mean_B": 7.257800778804746,
+    "share_tighter_than_no_corridor": 0.04095465393794749
+   }
+  },
+  "S3": {
+   "n_sinks": 10547,
+   "no_corridor": {
+    "mean_delta": 0.7476110406228542,
+    "mean_B": 2.364956738481429
+   },
+   "fixed": {
+    "mean_delta": 0.24708942415320378,
+    "mean_B": 2.106371237261339,
+    "share_tighter_than_no_corridor": 0.5624348155873709
+   },
+   "input": {
+    "mean_delta": 0.46104186606205694,
+    "mean_B": 20.17731971435983,
+    "share_tighter_than_no_corridor": 0.12354223949938371
+   }
+  },
+  "S4": {
+   "n_sinks": 10547,
+   "no_corridor": {
+    "mean_delta": 1.3715391669611274,
+    "mean_B": 6.8801787725149275
+   },
+   "fixed": {
+    "mean_delta": 0.1992236472991532,
+    "mean_B": 2.3884395274474035,
+    "share_tighter_than_no_corridor": 0.5203375367403053
+   },
+   "input": {
+    "mean_delta": 0.3337100887067569,
+    "mean_B": 23.17021654339493,
+    "share_tighter_than_no_corridor": 0.3041623210391581
+   }
+  }
+ }
+}

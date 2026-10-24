@@ -1,0 +1,7 @@
+# État du 23/10/2026 (run final) : SHA-256 des N premières lignes de chaque raw_*.jsonl (fichiers en ajout seulement)
+48222545314c8b5fcbb261ace87ab34da08a769aa5b60779f7b62bc4a43a96b7  raw_gemma4_31b_paid.jsonl  first_lines=2353
+03cf94b0e7e86fcb9f4fd21d2ac09f659c462fe25a22afb5aff869b8e49ba416  raw_llama31_8b.jsonl  first_lines=2294
+c812b2fe3a80477cc6213f5decfee9896c9d5446d7d5c81e2e81392df552b395  raw_llama32_3b.jsonl  first_lines=1331
+2045dfa0191751df8cea5c029dcd3d031756991416666a6b84e714b59f79d4e1  raw_llama33_70b.jsonl  first_lines=2288
+cd99933cbc7f7b9a81cdc9cba95051b9e666127acd8645847ef0495f82339cd7  raw_mistral_small_2501.jsonl  first_lines=2436
+7605ea34bebc3c55ec9a3009866156f3376261e7c2d9cdcb93b1d107ef1ed7ef  raw_qwen3_30b_instr.jsonl  first_lines=2392

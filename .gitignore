@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.zip
+runs/*/logs/
+runs/final_*backup*/
+runs/pilot*/
+runs/*mini*/
+runs/test_mock/
+openrouter_models.json
+models.json
+.env
