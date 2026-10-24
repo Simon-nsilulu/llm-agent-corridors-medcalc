@@ -2,9 +2,9 @@
 
 Code, prompts, selected examples, raw model responses and result tables for the article
 
-> И.Л. Каширина, С.Н. Нсилулу. *Оценка распространения непреднамеренных ошибок в технологически связанных подзадачах агентов на основе больших языковых моделей* (Voronezh State University, 2026, in preparation).
+> С.Н. Нсилулу и И.Л. Кашириной. *Оценка распространения непреднамеренных ошибок в технологически связанных подзадачах агентов на основе больших языковых моделей* (Voronezh State University, 2026, in preparation).
 >
-> I.L. Kashirina, S.N. Nsilulu. *Estimating the propagation of unintentional errors in technologically linked subtasks of large language model agents.*
+> S.N. Nsilulu, I.L. Kashirina. *Estimating the propagation of unintentional errors in technologically linked subtasks of large language model agents.*
 
 The repository contains everything needed to **re-compute every number of the experimental section without calling any model**, and to re-run the experiment with your own OpenRouter key.
 
